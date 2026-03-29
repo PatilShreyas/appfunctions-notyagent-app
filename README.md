@@ -4,7 +4,10 @@ NotyAgent is an experimental Android application demonstrating the power of **An
 
 This project acts as an **Agent**, capable of executing predefined functions (like reading, creating, and deleting notes) exposed by a target **Tool** app seamlessly in the background, without requiring deep links, explicit Intents, or UI navigation.
 
+<img src="demo.gif" height="600"/>
+
 > Note: It is not a real-agent app but just mocks the behavior of the agent app.
+
 
 ## 🔗 The Target "Tool" App: NotyKT
 For this Agent to work, it needs a Tool app that exposes AppFunctions. This project pairs with **[NotyKT](https://github.com/PatilShreyas/NotyKT)**.
